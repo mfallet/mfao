@@ -1,0 +1,9 @@
+# mfao
+# last update: 9/15/2015
+# Author: MarcelFallet
+
+To compile:
+
+$ cc -o <name> <name.c>
+
+# will add debugging information at a later date
